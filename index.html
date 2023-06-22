@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <button onclick="downloadPDF()">Download PDF</button>
+  <script>
+    const handleError = (response) => {
+      console.log(response);
+      if (!response.ok) {
+        throw Error(response.status);
+      } else {
+        return response.json();
+      }
+    };
+
+    const auth = 'Basic ' + btoa('9874dcee4886d0:5a5f229977e295');
+    const uri = 'https://watershedlrs.com/api/organizations/17583/lrs/statements?activity=http://schoox.com/xapi/storyline/xAPI/alabama/pdf';
+
+
+    fetch(uri, {
+        method: 'GET',
+        headers: {
+          'X-Experience-API-Version': '1.0.3',
+          'Content-Type': 'application/json',
+          Authorization: auth,
+        },
+      })
+      .then(handleError)
+      .then((data) => {
+        if (data.statements.length == 0) {
+          console.log('empty statements');
+        } else {
+          console.log(data);
+          // process the data
+          pdf = data.statements[0].object.definition.extensions['http://crackerbarrel.com/xapi/storyline/alabama/pdf/data'].pdf;
+          console.log(`pdf is ${pdf}`);
+        }
+      })
+      .catch((error) => {
+        console.log(error);
+        switch (error.message) {
+          case '401':
+            console.log('validation or parsing error');
+            break;
+          case '500':
+            console.log('server error, try again');
+            break;
+          default:
+            console.log('unhandled');
+            break;
+        }
+      });
+
+    const downloadPDF = () => {
+      const linkSource = `data:application/pdf;base64,${pdf}`;
+      const downloadLink = document.createElement('a');
+      const fileName = 'AL RVP Test.pdf';
+
+      downloadLink.href = linkSource;
+      downloadLink.download = fileName;
+      downloadLink.click();
+    };
+  </script>
+</body>
+
+</html>

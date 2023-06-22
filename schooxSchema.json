@@ -1,0 +1,227 @@
+{
+    "status": 200,
+    "results": {
+        "id": 823459570,
+        "firstname": "RYAN",
+        "lastname": "PARISH",
+        "preferred_name": null,
+        "email": "ryan.parish@crackerbarrel.com",
+        "external_ids": [
+            "1929815"
+        ],
+        "username": "1929815",
+        "joined_date": "2021-03-25",
+        "image": "https://www.schoox.com/user/images/no-user-image_small.gif",
+        "url": "https://www.schoox.com/user/823459570/",
+        "active": true,
+        "phone": null,
+        "mobile": null,
+        "city": null,
+        "country": null,
+        "country_code": null,
+        "state": null,
+        "address": null,
+        "zip": null,
+        "middlename": null,
+        "custom_fields": [
+            {
+                "Skill Trainer": ""
+            },
+            {
+                "Apron Name": ""
+            },
+            {
+                "Apron Size": ""
+            },
+            {
+                "Chef Coat Size": ""
+            },
+            {
+                "ALCOHOL ASSIGN": ""
+            },
+            {
+                "BIRTHDATE": "1988-03-11"
+            }
+        ],
+        "units": [],
+        "above_units": [
+            {
+                "id": 789080,
+                "name": "EXEMPT",
+                "jobs": [
+                    {
+                        "id": 625650,
+                        "name": "Manager/Director"
+                    }
+                ]
+            },
+            {
+                "id": 788667,
+                "name": "Cracker Barrel",
+                "jobs": [
+                    {
+                        "id": 625650,
+                        "name": "Manager/Director"
+                    }
+                ]
+            },
+            {
+                "id": 789099,
+                "name": "HO Managers",
+                "jobs": [
+                    {
+                        "id": 625650,
+                        "name": "Manager/Director"
+                    }
+                ]
+            },
+            {
+                "id": 788942,
+                "name": "Par",
+                "jobs": [
+                    {
+                        "id": 625650,
+                        "name": "Manager/Director"
+                    }
+                ]
+            },
+            {
+                "id": 788882,
+                "name": "HOME OFFICE",
+                "jobs": [
+                    {
+                        "id": 625650,
+                        "name": "Manager/Director"
+                    }
+                ]
+            },
+            {
+                "id": 1155680,
+                "name": "LAURA LIDYARD",
+                "jobs": [
+                    {
+                        "id": 625650,
+                        "name": "Manager/Director"
+                    }
+                ]
+            },
+            {
+                "id": 1155346,
+                "name": "RYAN PARISH",
+                "jobs": [
+                    {
+                        "id": 906495,
+                        "name": "Head of Supervisor"
+                    }
+                ]
+            }
+        ],
+        "registration_fields": [],
+        "last_login": "2022-05-02 15:06:33",
+        "modified_at": "2022-05-02 15:06:33",
+        "hourly_worker": false,
+        "hired_date": null,
+        "roles": [
+            "admin"
+        ],
+        "certificates": [
+            {
+                "id": 161883042,
+                "course_id": 3749136,
+                "ver_code": "7210624",
+                "total_time": 0,
+                "time_certified": "2022-01-17T16:33:45+00:00",
+                "url": "https://www.schoox.com/c161883042?ver_code=7210624"
+            },
+            {
+                "id": 147535595,
+                "course_id": 2052750,
+                "ver_code": "c333d9f",
+                "total_time": 0,
+                "time_certified": "2021-08-17T18:10:40+00:00",
+                "url": "https://www.schoox.com/c147535595?ver_code=c333d9f"
+            },
+            {
+                "id": 146463436,
+                "course_id": 3286857,
+                "ver_code": "5023e8c",
+                "total_time": 0,
+                "time_certified": "2021-08-04T19:19:27+00:00",
+                "url": "https://www.schoox.com/c146463436?ver_code=5023e8c",
+                "time_expire": "1970-01-01T00:33:42+00:00"
+            },
+            {
+                "id": 145948190,
+                "course_id": 2486538,
+                "ver_code": "2481515",
+                "total_time": 0,
+                "time_certified": "2021-07-28T19:29:40+00:00",
+                "url": "https://www.schoox.com/c145948190?ver_code=2481515"
+            },
+            {
+                "id": 145197073,
+                "course_id": 2852286,
+                "ver_code": "cf86f71",
+                "total_time": 0,
+                "time_certified": "2021-07-19T14:43:26+00:00",
+                "url": "https://www.schoox.com/c145197073?ver_code=cf86f71"
+            },
+            {
+                "id": 141406908,
+                "course_id": 2431772,
+                "ver_code": "f2d9a24",
+                "total_time": 0,
+                "time_certified": "2021-06-11T20:45:40+00:00",
+                "url": "https://www.schoox.com/c141406908?ver_code=f2d9a24"
+            },
+            {
+                "id": 140649292,
+                "course_id": 2445406,
+                "ver_code": "ae8bd12",
+                "total_time": 0,
+                "time_certified": "2021-06-02T22:14:06+00:00",
+                "url": "https://www.schoox.com/c140649292?ver_code=ae8bd12"
+            },
+            {
+                "id": 140649156,
+                "course_id": 2154789,
+                "ver_code": "6a1f14a",
+                "total_time": 0,
+                "time_certified": "2021-06-02T22:12:31+00:00",
+                "url": "https://www.schoox.com/c140649156?ver_code=6a1f14a"
+            },
+            {
+                "id": 140649024,
+                "course_id": 1859440,
+                "ver_code": "179e1cb",
+                "total_time": 0,
+                "time_certified": "2021-06-02T22:11:32+00:00",
+                "url": "https://www.schoox.com/c140649024?ver_code=179e1cb"
+            },
+            {
+                "id": 138067394,
+                "course_id": 1977333,
+                "ver_code": "3234923",
+                "total_time": 0,
+                "time_certified": "2021-05-07T13:31:23+00:00",
+                "url": "https://www.schoox.com/c138067394?ver_code=3234923"
+            },
+            {
+                "id": 135651089,
+                "course_id": 2907708,
+                "ver_code": "5139bc4",
+                "total_time": 0,
+                "time_certified": "2021-04-05T21:38:02+00:00",
+                "url": "https://www.schoox.com/c135651089?ver_code=5139bc4"
+            },
+            {
+                "id": 135606139,
+                "course_id": 2010535,
+                "ver_code": "d84b97b",
+                "total_time": 0,
+                "time_certified": "2021-04-05T14:38:02+00:00",
+                "url": "https://www.schoox.com/c135606139?ver_code=d84b97b"
+            }
+        ]
+    }
+}

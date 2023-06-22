@@ -1,0 +1,842 @@
+[
+    {
+        "id": 487109,
+        "name": "Unit Manager",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 487110,
+        "name": "Assistant Unit Manager",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625603,
+        "name": "Head of Benefit Group",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625587,
+        "name": "Head of Brand",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625605,
+        "name": "Head of Communication Group",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625599,
+        "name": "Head of Home Office",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625597,
+        "name": "Head of Organization",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625591,
+        "name": "Head of Restaurant District",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625589,
+        "name": "Head of Restaurant Region",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625595,
+        "name": "Head of Retail District",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625593,
+        "name": "Head of Retail Region",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625601,
+        "name": "Head of State",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 906495,
+        "name": "Head of Supervisor",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625604,
+        "name": "Assistant Head of Benefit Group",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625588,
+        "name": "Assistant Head of Brand",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625606,
+        "name": "Assistant Head of Communication Group",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625600,
+        "name": "Assistant Head of Home Office",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625598,
+        "name": "Assistant Head of Organization",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625592,
+        "name": "Assistant Head of Restaurant District",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625590,
+        "name": "Assistant Head of Restaurant Region",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625596,
+        "name": "Assistant Head of Retail District",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625594,
+        "name": "Assistant Head of Retail Region",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625602,
+        "name": "Assistant Head of State",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 906496,
+        "name": "Assistant Head of Supervisor",
+        "external_id": null,
+        "deletable": false
+    },
+    {
+        "id": 625607,
+        "name": "Associate Manager",
+        "external_id": "Associate Manager",
+        "deletable": true
+    },
+    {
+        "id": 625608,
+        "name": "Associate Manager NX",
+        "external_id": "Associate Manager NX",
+        "deletable": true
+    },
+    {
+        "id": 625609,
+        "name": "Backup Cook                  0",
+        "external_id": "Backup Cook                  0",
+        "deletable": true
+    },
+    {
+        "id": 625610,
+        "name": "Backup Cook                  1",
+        "external_id": "Backup Cook                  1",
+        "deletable": true
+    },
+    {
+        "id": 625611,
+        "name": "Backup Cook                  2",
+        "external_id": "Backup Cook                  2",
+        "deletable": true
+    },
+    {
+        "id": 625612,
+        "name": "Backup Cook                  3",
+        "external_id": "Backup Cook                  3",
+        "deletable": true
+    },
+    {
+        "id": 625613,
+        "name": "Backup Cook                  4",
+        "external_id": "Backup Cook                  4",
+        "deletable": true
+    },
+    {
+        "id": 625614,
+        "name": "Board of Directors",
+        "external_id": "Board of Directors",
+        "deletable": true
+    },
+    {
+        "id": 625615,
+        "name": "Day Maintenance              0",
+        "external_id": "Day Maintenance              0",
+        "deletable": true
+    },
+    {
+        "id": 625616,
+        "name": "Day Maintenance              1",
+        "external_id": "Day Maintenance              1",
+        "deletable": true
+    },
+    {
+        "id": 625617,
+        "name": "Day Maintenance              2",
+        "external_id": "Day Maintenance              2",
+        "deletable": true
+    },
+    {
+        "id": 625618,
+        "name": "Day Maintenance              3",
+        "external_id": "Day Maintenance              3",
+        "deletable": true
+    },
+    {
+        "id": 625619,
+        "name": "Day Maintenance              4",
+        "external_id": "Day Maintenance              4",
+        "deletable": true
+    },
+    {
+        "id": 625620,
+        "name": "Dishwasher                   0",
+        "external_id": "Dishwasher                   0",
+        "deletable": true
+    },
+    {
+        "id": 625621,
+        "name": "Dishwasher                   1",
+        "external_id": "Dishwasher                   1",
+        "deletable": true
+    },
+    {
+        "id": 625622,
+        "name": "Dishwasher                   2",
+        "external_id": "Dishwasher                   2",
+        "deletable": true
+    },
+    {
+        "id": 625623,
+        "name": "Dishwasher                   3",
+        "external_id": "Dishwasher                   3",
+        "deletable": true
+    },
+    {
+        "id": 625624,
+        "name": "Dishwasher                   4",
+        "external_id": "Dishwasher                   4",
+        "deletable": true
+    },
+    {
+        "id": 625625,
+        "name": "Employee",
+        "external_id": "Employee",
+        "deletable": true
+    },
+    {
+        "id": 625626,
+        "name": "Employee Training Coordinator",
+        "external_id": "Employee Training Coordinator",
+        "deletable": true
+    },
+    {
+        "id": 625627,
+        "name": "General Manager",
+        "external_id": "General Manager",
+        "deletable": true
+    },
+    {
+        "id": 625628,
+        "name": "Grill Cook                   0",
+        "external_id": "Grill Cook                   0",
+        "deletable": true
+    },
+    {
+        "id": 625629,
+        "name": "Grill Cook                   1",
+        "external_id": "Grill Cook                   1",
+        "deletable": true
+    },
+    {
+        "id": 625630,
+        "name": "Grill Cook                   2",
+        "external_id": "Grill Cook                   2",
+        "deletable": true
+    },
+    {
+        "id": 625631,
+        "name": "Grill Cook                   3",
+        "external_id": "Grill Cook                   3",
+        "deletable": true
+    },
+    {
+        "id": 625632,
+        "name": "Grill Cook                   4",
+        "external_id": "Grill Cook                   4",
+        "deletable": true
+    },
+    {
+        "id": 625633,
+        "name": "Guest Service                0",
+        "external_id": "Guest Service                0",
+        "deletable": true
+    },
+    {
+        "id": 625634,
+        "name": "Guest Service                1",
+        "external_id": "Guest Service                1",
+        "deletable": true
+    },
+    {
+        "id": 625635,
+        "name": "Guest Service                2",
+        "external_id": "Guest Service                2",
+        "deletable": true
+    },
+    {
+        "id": 625636,
+        "name": "Guest Service                3",
+        "external_id": "Guest Service                3",
+        "deletable": true
+    },
+    {
+        "id": 625637,
+        "name": "Guest Service                4",
+        "external_id": "Guest Service                4",
+        "deletable": true
+    },
+    {
+        "id": 625638,
+        "name": "Host                         0",
+        "external_id": "Host                         0",
+        "deletable": true
+    },
+    {
+        "id": 625639,
+        "name": "Host                         1",
+        "external_id": "Host                         1",
+        "deletable": true
+    },
+    {
+        "id": 625640,
+        "name": "Host                         2",
+        "external_id": "Host                         2",
+        "deletable": true
+    },
+    {
+        "id": 625641,
+        "name": "Host                         3",
+        "external_id": "Host                         3",
+        "deletable": true
+    },
+    {
+        "id": 625642,
+        "name": "Host                         4",
+        "external_id": "Host                         4",
+        "deletable": true
+    },
+    {
+        "id": 625643,
+        "name": "Individual Contributor",
+        "external_id": "Individual Contributor",
+        "deletable": true
+    },
+    {
+        "id": 625644,
+        "name": "Kitchen Manager",
+        "external_id": "Kitchen Manager",
+        "deletable": true
+    },
+    {
+        "id": 625645,
+        "name": "Line Cook                    0",
+        "external_id": "Line Cook                    0",
+        "deletable": true
+    },
+    {
+        "id": 625646,
+        "name": "Line Cook                    1",
+        "external_id": "Line Cook                    1",
+        "deletable": true
+    },
+    {
+        "id": 625647,
+        "name": "Line Cook                    2",
+        "external_id": "Line Cook                    2",
+        "deletable": true
+    },
+    {
+        "id": 625648,
+        "name": "Line Cook                    3",
+        "external_id": "Line Cook                    3",
+        "deletable": true
+    },
+    {
+        "id": 625649,
+        "name": "Line Cook                    4",
+        "external_id": "Line Cook                    4",
+        "deletable": true
+    },
+    {
+        "id": 625650,
+        "name": "Manager\/Director",
+        "external_id": "Manager\/Director",
+        "deletable": true
+    },
+    {
+        "id": 625651,
+        "name": "NOP Day Maintenance          0",
+        "external_id": "NOP Day Maintenance          0",
+        "deletable": true
+    },
+    {
+        "id": 625652,
+        "name": "NOP Day Maintenance          1",
+        "external_id": "NOP Day Maintenance          1",
+        "deletable": true
+    },
+    {
+        "id": 625653,
+        "name": "NOP Day Maintenance          2",
+        "external_id": "NOP Day Maintenance          2",
+        "deletable": true
+    },
+    {
+        "id": 625654,
+        "name": "NOP Day Maintenance          3",
+        "external_id": "NOP Day Maintenance          3",
+        "deletable": true
+    },
+    {
+        "id": 625655,
+        "name": "NOP Day Maintenance          4",
+        "external_id": "NOP Day Maintenance          4",
+        "deletable": true
+    },
+    {
+        "id": 625656,
+        "name": "NOP Dishwasher               0",
+        "external_id": "NOP Dishwasher               0",
+        "deletable": true
+    },
+    {
+        "id": 625657,
+        "name": "NOP Dishwasher               1",
+        "external_id": "NOP Dishwasher               1",
+        "deletable": true
+    },
+    {
+        "id": 625658,
+        "name": "NOP Dishwasher               2",
+        "external_id": "NOP Dishwasher               2",
+        "deletable": true
+    },
+    {
+        "id": 625659,
+        "name": "NOP Dishwasher               3",
+        "external_id": "NOP Dishwasher               3",
+        "deletable": true
+    },
+    {
+        "id": 625660,
+        "name": "NOP Dishwasher               4",
+        "external_id": "NOP Dishwasher               4",
+        "deletable": true
+    },
+    {
+        "id": 625661,
+        "name": "NOP Prep Cook                0",
+        "external_id": "NOP Prep Cook                0",
+        "deletable": true
+    },
+    {
+        "id": 625662,
+        "name": "NOP Prep Cook                1",
+        "external_id": "NOP Prep Cook                1",
+        "deletable": true
+    },
+    {
+        "id": 625663,
+        "name": "NOP Prep Cook                2",
+        "external_id": "NOP Prep Cook                2",
+        "deletable": true
+    },
+    {
+        "id": 625664,
+        "name": "NOP Prep Cook                3",
+        "external_id": "NOP Prep Cook                3",
+        "deletable": true
+    },
+    {
+        "id": 625665,
+        "name": "NOP Prep Cook                4",
+        "external_id": "NOP Prep Cook                4",
+        "deletable": true
+    },
+    {
+        "id": 625666,
+        "name": "NOP Server                   0",
+        "external_id": "NOP Server                   0",
+        "deletable": true
+    },
+    {
+        "id": 625667,
+        "name": "NOP Server                   1",
+        "external_id": "NOP Server                   1",
+        "deletable": true
+    },
+    {
+        "id": 625668,
+        "name": "NOP Server                   2",
+        "external_id": "NOP Server                   2",
+        "deletable": true
+    },
+    {
+        "id": 625669,
+        "name": "NOP Server                   3",
+        "external_id": "NOP Server                   3",
+        "deletable": true
+    },
+    {
+        "id": 625670,
+        "name": "NOP Server                   4",
+        "external_id": "NOP Server                   4",
+        "deletable": true
+    },
+    {
+        "id": 625671,
+        "name": "Officer\/Exec",
+        "external_id": "Officer\/Exec",
+        "deletable": true
+    },
+    {
+        "id": 625672,
+        "name": "Pantry Cook                  0",
+        "external_id": "Pantry Cook                  0",
+        "deletable": true
+    },
+    {
+        "id": 625673,
+        "name": "Pantry Cook                  1",
+        "external_id": "Pantry Cook                  1",
+        "deletable": true
+    },
+    {
+        "id": 625674,
+        "name": "Pantry Cook                  2",
+        "external_id": "Pantry Cook                  2",
+        "deletable": true
+    },
+    {
+        "id": 625675,
+        "name": "Pantry Cook                  3",
+        "external_id": "Pantry Cook                  3",
+        "deletable": true
+    },
+    {
+        "id": 625676,
+        "name": "Pantry Cook                  4",
+        "external_id": "Pantry Cook                  4",
+        "deletable": true
+    },
+    {
+        "id": 625677,
+        "name": "Pantry Production Cook       0",
+        "external_id": "Pantry Production Cook       0",
+        "deletable": true
+    },
+    {
+        "id": 625678,
+        "name": "Pantry Production Cook       1",
+        "external_id": "Pantry Production Cook       1",
+        "deletable": true
+    },
+    {
+        "id": 625679,
+        "name": "Pantry Production Cook       2",
+        "external_id": "Pantry Production Cook       2",
+        "deletable": true
+    },
+    {
+        "id": 625680,
+        "name": "Pantry Production Cook       3",
+        "external_id": "Pantry Production Cook       3",
+        "deletable": true
+    },
+    {
+        "id": 625681,
+        "name": "Pantry Production Cook       4",
+        "external_id": "Pantry Production Cook       4",
+        "deletable": true
+    },
+    {
+        "id": 625682,
+        "name": "Prep Cook                    0",
+        "external_id": "Prep Cook                    0",
+        "deletable": true
+    },
+    {
+        "id": 625683,
+        "name": "Prep Cook                    1",
+        "external_id": "Prep Cook                    1",
+        "deletable": true
+    },
+    {
+        "id": 625684,
+        "name": "Prep Cook                    2",
+        "external_id": "Prep Cook                    2",
+        "deletable": true
+    },
+    {
+        "id": 625685,
+        "name": "Prep Cook                    3",
+        "external_id": "Prep Cook                    3",
+        "deletable": true
+    },
+    {
+        "id": 625686,
+        "name": "Prep Cook                    4",
+        "external_id": "Prep Cook                    4",
+        "deletable": true
+    },
+    {
+        "id": 625687,
+        "name": "Production Cook              0",
+        "external_id": "Production Cook              0",
+        "deletable": true
+    },
+    {
+        "id": 625688,
+        "name": "Production Cook              1",
+        "external_id": "Production Cook              1",
+        "deletable": true
+    },
+    {
+        "id": 625689,
+        "name": "Production Cook              2",
+        "external_id": "Production Cook              2",
+        "deletable": true
+    },
+    {
+        "id": 625690,
+        "name": "Production Cook              3",
+        "external_id": "Production Cook              3",
+        "deletable": true
+    },
+    {
+        "id": 625691,
+        "name": "Production Cook              4",
+        "external_id": "Production Cook              4",
+        "deletable": true
+    },
+    {
+        "id": 934995,
+        "name": "Reporting",
+        "external_id": null,
+        "deletable": true
+    },
+    {
+        "id": 625692,
+        "name": "Restaurant District Manager",
+        "external_id": "Restaurant District Manager",
+        "deletable": true
+    },
+    {
+        "id": 625693,
+        "name": "Restaurant Vice President",
+        "external_id": "Restaurant Vice President",
+        "deletable": true
+    },
+    {
+        "id": 625694,
+        "name": "Retail District Manager",
+        "external_id": "Retail District Manager",
+        "deletable": true
+    },
+    {
+        "id": 625695,
+        "name": "Retail Employee              0",
+        "external_id": "Retail Employee              0",
+        "deletable": true
+    },
+    {
+        "id": 625696,
+        "name": "Retail Employee              1",
+        "external_id": "Retail Employee              1",
+        "deletable": true
+    },
+    {
+        "id": 625697,
+        "name": "Retail Employee              2",
+        "external_id": "Retail Employee              2",
+        "deletable": true
+    },
+    {
+        "id": 625698,
+        "name": "Retail Employee              3",
+        "external_id": "Retail Employee              3",
+        "deletable": true
+    },
+    {
+        "id": 625699,
+        "name": "Retail Employee              4",
+        "external_id": "Retail Employee              4",
+        "deletable": true
+    },
+    {
+        "id": 625700,
+        "name": "Retail Manager",
+        "external_id": "Retail Manager",
+        "deletable": true
+    },
+    {
+        "id": 1083571,
+        "name": "Retail Shift Leader",
+        "external_id": null,
+        "deletable": true
+    },
+    {
+        "id": 625701,
+        "name": "Retail Vice President",
+        "external_id": "Retail Vice President",
+        "deletable": true
+    },
+    {
+        "id": 625702,
+        "name": "Senior Associate Manager",
+        "external_id": "Senior Associate Manager",
+        "deletable": true
+    },
+    {
+        "id": 625703,
+        "name": "Senior Associate Manager NX",
+        "external_id": "Senior Associate Manager NX",
+        "deletable": true
+    },
+    {
+        "id": 487121,
+        "name": "Server",
+        "external_id": "Server",
+        "deletable": true
+    },
+    {
+        "id": 625704,
+        "name": "Server                       0",
+        "external_id": "Server                       0",
+        "deletable": true
+    },
+    {
+        "id": 625705,
+        "name": "Server                       1",
+        "external_id": "Server                       1",
+        "deletable": true
+    },
+    {
+        "id": 625706,
+        "name": "Server                       2",
+        "external_id": "Server                       2",
+        "deletable": true
+    },
+    {
+        "id": 625707,
+        "name": "Server                       3",
+        "external_id": "Server                       3",
+        "deletable": true
+    },
+    {
+        "id": 625708,
+        "name": "Server                       4",
+        "external_id": "Server                       4",
+        "deletable": true
+    },
+    {
+        "id": 921674,
+        "name": "Shift Leader",
+        "external_id": null,
+        "deletable": true
+    },
+    {
+        "id": 625709,
+        "name": "To Go                        0",
+        "external_id": "To Go                        0",
+        "deletable": true
+    },
+    {
+        "id": 625710,
+        "name": "To Go                        1",
+        "external_id": "To Go                        1",
+        "deletable": true
+    },
+    {
+        "id": 625711,
+        "name": "To Go                        2",
+        "external_id": "To Go                        2",
+        "deletable": true
+    },
+    {
+        "id": 625712,
+        "name": "To Go                        3",
+        "external_id": "To Go                        3",
+        "deletable": true
+    },
+    {
+        "id": 625713,
+        "name": "To Go                        4",
+        "external_id": "To Go                        4",
+        "deletable": true
+    },
+    {
+        "id": 710161,
+        "name": "ToGo NOP                     0",
+        "external_id": "ToGo NOP                     0",
+        "deletable": true
+    },
+    {
+        "id": 710162,
+        "name": "ToGo NOP                     1",
+        "external_id": "ToGo NOP                     1",
+        "deletable": true
+    },
+    {
+        "id": 710163,
+        "name": "ToGo NOP                     2",
+        "external_id": "ToGo NOP                     2",
+        "deletable": true
+    },
+    {
+        "id": 710164,
+        "name": "ToGo NOP                     3",
+        "external_id": "ToGo NOP                     3",
+        "deletable": true
+    },
+    {
+        "id": 710165,
+        "name": "ToGo NOP                     4",
+        "external_id": "ToGo NOP                     4",
+        "deletable": true
+    }
+]
